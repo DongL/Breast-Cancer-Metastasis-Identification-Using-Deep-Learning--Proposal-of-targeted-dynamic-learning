@@ -1,5 +1,6 @@
+[Report](https://github.com/DongL/Breast-Cancer-Metastasis-Identification-Using-Deep-Learning--Proposal-of-targeted-dynamic-learning/blob/master/Breast%20Cancer%20Metastases%20Indentification%20using%20Deep%20Learning.pdf) 
 
-The html file can be previewed using [Github Html Preview](https://htmlpreview.github.io)
+The html files can be previewed using [Github Html Preview](https://htmlpreview.github.io)
 
 ---
 
