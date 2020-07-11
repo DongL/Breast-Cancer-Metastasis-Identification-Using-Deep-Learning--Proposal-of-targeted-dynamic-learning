@@ -1,7 +1,7 @@
 
-The html file can be previewed using [Github Html Preview](https://htmlpreview.github.io).
+The html file can be previewed using [Github Html Preview](https://htmlpreview.github.io)
 
---
+---
 
 # Breast Cancer Metastases Identification using Deep Learning
 
